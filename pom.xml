@@ -1,0 +1,24 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>edu.cmu.cs</groupId>
+  <artifactId>JavaDNF.Java</artifactId>
+  <version>1.2</version>
+  <dependencies>
+  	<dependency>
+  		<groupId>edu.cmu.cs</groupId>
+  		<artifactId>CompBio.Java</artifactId>
+  		<version>1.1</version>
+  		<scope>compile</scope>
+  	</dependency>
+  	<dependency>
+  		<groupId>edu.cmu.cs</groupId>
+  		<artifactId>Algorithm</artifactId>
+  		<version>1.0.1</version>
+  	</dependency>
+  	<dependency>
+  		<groupId>edu.cmu.cs</groupId>
+  		<artifactId>MachineLearning</artifactId>
+  		<version>1.0.1</version>
+  	</dependency>
+  </dependencies>
+</project>
